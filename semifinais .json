@@ -1,0 +1,60 @@
+[
+    {
+        "fase": "mata-mata",
+        "jogo": 1,
+        "data": "02/05",  
+        "mandante": "REAL MADRID",
+        "gols_mandante": "3",
+        "gols_visitante": "0",
+        "visitante": "ATLETICO DE MADRID",   
+        "local": "SANTIAGO BERNABEU",
+        "vencedor": "REAL MADRID",
+        "perdedor": "ATLETICO DE MADRID",
+        "imagem":"https://logodownload.org/wp-content/uploads/2016/03/Real-Madrid-logo-4.jpg",
+        "imagem1":"https://logodetimes.com/wp-content/uploads/atletico-madrid.png"
+    },
+    {
+        "fase": "semifinal",
+        "jogo": 1,
+        "data": "03/05",  
+        "mandante": "MÔNACO",
+        "gols_mandante": "0",
+        "gols_visitante": "2",
+        "visitante": "JUVENTUS",   
+        "local": "ESTÁDIO LUIS II",
+        "vencedor": "JUVENTUS",
+        "perdedor": "MÔNACO",
+        "imagem":"https://logodetimes.com/wp-content/uploads/juventus-football-club.png",
+        "imagem1":"https://logodetimes.com/wp-content/uploads/as-monaco.png"
+    },
+    {
+        "fase": "semifinal",
+        "jogo": 2,
+        "data": "10/05",  
+        "mandante": "ATLETICO DE MADRID",
+        "gols_mandante": "2",
+        "gols_visitante": "1",
+        "visitante": "REAL MADRID",   
+        "local": "ESTÁDIO CÍVITAS METROPOLITANO",
+        "vencedor": "ATLETICO DE MADRID",
+        "perdedor": "REAL MADRID",
+        "imagem1":"https://logodetimes.com/wp-content/uploads/atletico-madrid.png",
+        "imagem":"https://logodownload.org/wp-content/uploads/2016/03/Real-Madrid-logo-4.jpg"
+    },
+    {
+        "fase": "semifinal",
+        "jogo": 2,
+        "data": "09/05",  
+        "mandante": "JUVENTUS",
+        "gols_mandante": "2",
+        "gols_visitante": "1",
+        "visitante": "MÔNACO",   
+        "local": "JUVENTUS STADIUM",
+        "vencedor": "JUVENTUS",
+        "perdedor": "MÔNACO",
+        "imagem":"https://logodetimes.com/wp-content/uploads/juventus-football-club.png",
+        "imagem1":"https://logodetimes.com/wp-content/uploads/as-monaco.png"
+    }
+
+
+]
